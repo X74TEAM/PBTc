@@ -6,7 +6,7 @@
   "DialogButtonLink": "https://www.google.com/",
   "VideoLink": "https://www.youtube.com/",
   "WNote": "Fri, Sat Withdraw is Off",
-  "free": "20",
-  "basic": "50",
-  "pro": "100"
+  "free": "0",
+  "basic": "250",
+  "pro": "500"
 }
